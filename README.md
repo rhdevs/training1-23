@@ -1,8 +1,16 @@
 # training1-23
 Ved Joshi
+
+
+Farhan Navas
+Thanapon is here
+Christopher Tan
+
 Low Beverly
 Hung
+
 Manasi-Narayanan-Bharadwaj
+
 Arnav Goel 
 Nihirra Kakkar
 Hung
@@ -14,3 +22,6 @@ Hello I'm Fang Jun
 This is Thanapon!
 TEH ZE XUE
 john
+Zhe Li
+
+
