@@ -1,4 +1,6 @@
 # training1-23
+Low Beverly
+Hung
 Manasi-Narayanan-Bharadwaj
 Arnav Goel 
 Nihirra Kakkar
