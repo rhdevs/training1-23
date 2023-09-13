@@ -1,9 +1,12 @@
 # training1-23
+Ved Joshi
+
 
 Randal
 Farhan Navas
 Thanapon is here
 Christopher Tan
+
 Low Beverly
 Hung
 
@@ -21,4 +24,5 @@ This is Thanapon!
 TEH ZE XUE
 john
 Zhe Li
+
 
