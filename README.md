@@ -1,5 +1,6 @@
 # training1-23
 
+Randal
 Farhan Navas
 Thanapon is here
 Christopher Tan
